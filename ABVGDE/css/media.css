@@ -1,0 +1,59 @@
+@media screen and (max-width: 720px) {
+  .turtle_in {
+    flex-direction: column;
+    align-items: center; 
+  }
+
+  .turtle__img {
+    order: -1; 
+    margin-bottom: 62px; 
+  }
+
+  .turtle_right {
+    width: 100%; 
+    padding: 0 157px;
+  }
+  .fast_icons{
+    overflow: hidden;
+  }
+  .check_box{
+     margin-top: -606px;
+     margin-left: 10px;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .cards {
+    margin: 20px; 
+  }
+
+  .product {
+    width: calc(50% - 64px);
+    margin-bottom: -38px
+  }
+  .cartochky_tit{
+    margin-left: 106px;
+  }
+  .card_btn{
+    width: 189px;
+    margin-left: 271px;
+    margin-top: 66px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .ult_in {
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center;
+  }
+  .ult__img {
+    order: -1; 
+    margin-bottom: 20px;
+    text-align: center; 
+  }
+  .ult_right {
+    margin-left: -467px;
+  }
+}
